@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 早该管管了！
 
 You can use the [editor on GitHub](https://github.com/Guanism/Guanism.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
