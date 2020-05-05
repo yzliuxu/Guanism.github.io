@@ -1,12 +1,15 @@
-## 早该管管了！
+# 早该管管了！
 
-You can use the [editor on GitHub](https://github.com/Guanism/Guanism.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 老王三定律
+1. 对方陈述事件A
+答：早该AA了！
 
-### Markdown
+2. 对方说 if A then B
+答：A就B吗？我看也未必！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. 对方说A是A，B是B
+答：A和B，其实都一样！
 
 ```markdown
 Syntax highlighted code block
