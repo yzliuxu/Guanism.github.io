@@ -35,4 +35,5 @@
 ----------------------------------
 
 # 老外演艺大赏
-![敬礼](https://github.com/Guanism/Guanism.github.io/blob/master/%E8%80%81%E7%8E%8B%E9%A2%9C%E8%89%BA/%E6%84%9F%E6%81%A9.gif)
+![感恩](https://github.com/Guanism/Guanism.github.io/blob/master/%E8%80%81%E7%8E%8B%E9%A2%9C%E8%89%BA/%E6%84%9F%E6%81%A9.gif “感恩”)
+
