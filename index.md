@@ -36,9 +36,21 @@
 
 # 老外演艺大赏
 ![](https://github.com/Guanism/Guanism.github.io/blob/master/%E8%80%81%E7%8E%8B%E9%A2%9C%E8%89%BA/%E6%84%9F%E6%81%A9.gif "感恩")
+
+
 ![](https://github.com/Guanism/Guanism.github.io/blob/master/%E8%80%81%E7%8E%8B%E9%A2%9C%E8%89%BA/%E6%8F%A1%E6%8B%B3.gif "握拳")
+
+
 ![](https://github.com/Guanism/Guanism.github.io/blob/master/%E8%80%81%E7%8E%8B%E9%A2%9C%E8%89%BA/%E6%91%87%E5%A4%B4.gif "摇头")
+
+
 ![](https://github.com/Guanism/Guanism.github.io/blob/master/%E8%80%81%E7%8E%8B%E9%A2%9C%E8%89%BA/%E8%BF%99%E5%B0%B1%E6%98%AF.gif "这就是")
+
+
 ![](https://github.com/Guanism/Guanism.github.io/blob/master/%E8%80%81%E7%8E%8B%E9%A2%9C%E8%89%BA/%E6%95%AC%E7%A4%BC.gif "salute")
+
+
 ![](https://github.com/Guanism/Guanism.github.io/blob/master/%E8%80%81%E7%8E%8B%E9%A2%9C%E8%89%BA/%E5%90%B4%E4%BA%AC%E6%95%AC%E7%A4%BC.gif "吴京salute")
+
+
 
