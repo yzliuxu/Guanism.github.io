@@ -35,7 +35,7 @@
 ----------------------------------
 
 # 老外颜艺大赏
-![a](https://github.com/Guanism/Guanism.github.io/blob/master/%E8%80%81%E7%8E%8B%E9%A2%9C%E8%89%BA/%E6%84%9F%E6%81%A9.gif "感恩")
+![a](老王颜艺/感恩.gif "感恩")
 
 
 ![](https://github.com/Guanism/Guanism.github.io/blob/master/%E8%80%81%E7%8E%8B%E9%A2%9C%E8%89%BA/%E6%8F%A1%E6%8B%B3.gif "握拳")
