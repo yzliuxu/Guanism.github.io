@@ -1,12 +1,12 @@
 # WangRxiv
 
-[王三句](./subpages/%E7%8E%8B%E4%B8%89%E5%8F%A5.md)
+[王三句](./subpages/%E7%8E%8B%E4%B8%89%E5%8F%A5.html)
 
 
-[假装不知道](./subpages/%E5%81%87%E8%A3%85%E4%B8%8D%E7%9F%A5%E9%81%93.md)
+[假装不知道](./subpages/%E5%81%87%E8%A3%85%E4%B8%8D%E7%9F%A5%E9%81%93.html)
 
 
-[请刀印](./subpages/%E9%9D%92%E5%B2%9B%E4%BA%BA.md)
+[请刀印](./subpages/%E9%9D%92%E5%B2%9B%E4%BA%BA.html)
 
 
 
