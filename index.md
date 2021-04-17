@@ -37,17 +37,9 @@
 
 # 老王颜艺大赏
 
-<style>
-.table-container
-{
-width: 100%;
-overflow-y: auto;
-_overflow: auto;
-margin: 0 0 1em;
-}
-</style>
 
-<div class="table-container">
+
+<div>
 
 | <img src="./老王颜艺/感恩.gif" height="240px" width="320px" >                 | <img src="./老王颜艺/握拳.gif" height="240px" width="320px" >  | <img src="./老王颜艺/摇头.gif" height="240px" width="320px" >     |
 |-------------------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------|
