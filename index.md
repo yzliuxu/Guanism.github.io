@@ -1,4 +1,4 @@
-# 早该管管了！
+# WangRxiv
 
 [王三句](./subpages/%E7%8E%8B%E4%B8%89%E5%8F%A5.md)
 
